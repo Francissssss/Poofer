@@ -1,8 +1,7 @@
 ## Poofers
 
 6/3/2017<br/>
-First personal development project<br/>
-A casual 2D arcade swiping game<br/>
+A simple casual 2D arcade swiping game<br/>
 **_*Compatible with Android devices only_**<br/>
 
 Downloadable at:<br/>
