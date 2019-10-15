@@ -1,6 +1,5 @@
 ## Poofers
 
-6/3/2017<br/>
 A simple casual 2D arcade swiping game<br/>
 **_*Compatible with Android devices only_**<br/>
 
