@@ -1,6 +1,6 @@
 ## Poofers
 
-A simple casual 2D arcade swiping game<br/>
+2D arcade swiping game<br/>
 **_*Compatible with Android devices only_**<br/>
 
 Downloadable at:<br/>
