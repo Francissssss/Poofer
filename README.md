@@ -1,7 +1,6 @@
 ## Poofers
 
 2D arcade swiping game<br/>
-**_*Compatible with Android devices only_**<br/>
 
 Downloadable at:<br/>
 https://play.google.com/store/apps/details?id=com.chalkboyygames<br/>
